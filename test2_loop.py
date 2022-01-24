@@ -10,7 +10,7 @@ total=0
 for a in x:
     for i in a:
         #if i ==1:
-         total+=1
+         total+=i
 print(total)
 
 
